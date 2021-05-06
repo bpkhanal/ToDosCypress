@@ -16,4 +16,8 @@ To run non intractably(headless mode):
 npx cypress run
 
 
-Further details: https://docs.cypress.io/guides/getting-started/installing-cypress
+Further details:
+
+https://docs.cypress.io/guides/getting-started/installing-cypress
+
+https://github.com/TheBrainFamily/cypress-cucumber-preprocessor

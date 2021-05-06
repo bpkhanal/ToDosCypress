@@ -14,4 +14,6 @@ npx cypress open
 
 To run non intractably(headless mode):
 npx cypress run
+
+
 Further details: https://docs.cypress.io/guides/getting-started/installing-cypress
